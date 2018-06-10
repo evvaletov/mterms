@@ -20,7 +20,7 @@ Quadrupole" by E. Valetov and M. Berz.
 [README.MD](README.MD)	  This file  
 [mterms.fox](mterms.fox)	  COSY INFINITY program  
 [mapdata.txt](mapdata.txt)	  Conformal map data for default plate distances and voltages  
-[quad.pdf](quad.pdf)	  Plot of the cross-sectional geometry with default distances  
+[quad.pdf](quad.pdf)	  Plot of the cross-sectional geometry with default distances    
 
 ## 2. Setup
 
