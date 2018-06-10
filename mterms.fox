@@ -1,5 +1,3 @@
-
-
 INCLUDE 'COSY';
 PROCEDURE RUN;
 
@@ -1195,12 +1193,12 @@ IMGINDX:=1;
 CALCDONE:=0;
 
 WRITE 6 '----------------------------------------------------------';
-WRITE 6 'BROOKHAVEN MUON (g-2) STORAGE RING HIGH VOLTAGE QUADRUPOLE';
-WRITE 6 '              MULTIPOLE TERMS CALCULATION';
-WRITE 6 '                 E. VALETOV & M. BERZ';
-WRITE 6 '               MUON (g-2) COLLABORATION';
-WRITE 6 '                  CREATED 03-FEB-2017';
-WRITE 6 '                EMAIL: VALETOVE@MSU.EDU';
+WRITE 6 '      MTERMS: MULTIPOLE TERMS CALCULATION FOR THE         ';
+WRITE 6 '    MUON (g-2) STORAGE RING HIGH VOLTAGE QUADRUPOLE       ';
+WRITE 6 '                 E. VALETOV & M. BERZ                     ';
+WRITE 6 '               MUON (g-2) COLLABORATION                   ';
+WRITE 6 '                  CREATED 03-FEB-2017                     ';
+WRITE 6 '                EMAIL: VALETOVE@MSU.EDU                   ';
 WRITE 6 '----------------------------------------------------------';
 
 WRITE 6 '' 'REQUIREMENTS: MATLAB, SC TOOLBOX (http://www.math.udel.edu/~driscoll/SC/).';
