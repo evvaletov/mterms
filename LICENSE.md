@@ -1,2 +1,1 @@
-
-Copyright (C) 2018 
+© 2017 Eremey Valetov and Martin Berz
