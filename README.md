@@ -11,7 +11,7 @@ This COSY INFINITY program computes multipole terms of the Muon (g-2)
 Collaboration quadrupole with adjustable geometry specified by plate distances
 and plate voltages specified by the user.
 
-For detailed information, including theory and calculation examples, see Chapter 3 of the following:
+For detailed information, including theory and calculation examples, see Chapter 3 of the following:  
 Eremey Valetov. Field Modeling, Symplectic Tracking, and Spin Decoherence for EDM and Muon g-2 Lattices. Ph.D. thesis, Michigan State University, East Lansing, MI 48824, 2017. Fermilab report FERMILAB-THESIS-2017-21. doi:10.2172/1416546.
 
 
