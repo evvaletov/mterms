@@ -1,0 +1,6 @@
+*.bin
+COSY.bin
+*.dat
+mterms.txt
+quadplot.pdf
+*.out
